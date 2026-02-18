@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.log
+*.bin
+*.joblib
+*.tar.gz
+.DS_Store
+*.txt
+*.csv
